@@ -1,0 +1,46 @@
+###### print() — Used to Show Output on the Screen
+1. Tells the computer to display something on the screen.
+e.g print("Hello, Hamza!")
+
+
+
+##### input() — Used to Take Input from the User
+1.Tells the computer to wait for the user to type something, and then stores that.
+e.g name = input("What is your name? ")
+print("Nice to meet you, " + name)
+
+
+
+
+#### Python int() Function
+1.  Convert the number 3.5 into an integer
+e.g x = int(3.5)
+print(x)
+
+
+
+#### Linter
+Article: https://www.testim.io/blog/what-is-a-linter-heres-a-definition-and-quick-start-guide/
+
+
+
+#### 
+What is strip() in Python?
+strip() is a string method in Python.
+
+It is used to remove any spaces (or invisible characters) from the beginning and the end of a string.
+
+
+
+
+
+
+####
+What is sys?
+sys is a built-in Python module that gives you access to system-specific features like:
+
+1. Command-line arguments
+
+2. Exiting the program
+
+3. Accessing Python path

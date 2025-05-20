@@ -1,0 +1,31 @@
+What is help() in Python?
+1. The help() function shows the documentation (built-in guide) for any function, keyword, or object.
+e.g help(print)
+
+what is fstr() in python?
+
+
+
+The sep parameter in Python's print() function specifies how multiple arguments should be separated when printed. By default, sep is set to a space (" "), but it can be modified to any string, character, or integer. This functionality, introduced in Python 3, allows for flexible output formatting.
+
+
+split()
+title()
+fstring()
+    /n
+parameter
+sep
+int
+
+
+
+I am going to learn python from scratch. I will learn Python languages. I will be learning programming fundamental for the first time also. 
+
+I need you to be my tutor, assistant, mentor which will help me throughout my journey.
+
+So, help me learning programming fundamentals using Python language.
+
+You will be guiding me throughout well.
+
+I hope you are ready for this amazing journey with me.
+An f-string is a way to create strings that can embed expressions directly inside curly braces {}. These expressions are evaluated at runtime and then inserted into the string.
